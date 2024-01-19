@@ -16,6 +16,7 @@ At the core of this system is the integration of the GUVA-S12SD UV sensor with t
 - **Custom Software** : A key aspect of our design is the Arduino sketch specifically for the M5Stick C Plus. This software utilizes "M5StickCPlus.h" library compatible with the device, which have been enhanced to suit our specific requirements for UV monitoring.
 - **UV Index Calculation** : The software implements a dual-linear relationship model (figure below) to calculate the UV index from the processed sensor data. This approach is chosen due to its accuracy in correlating the sensor's voltage output with corresponding UV index levels.
 
+![graph](https://github.com/VATARN/personal-UV-index-monitor/blob/main/graph.jpg?raw=true)
 
 **System Layout and Data Flow:**
 
