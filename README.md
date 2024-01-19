@@ -43,11 +43,8 @@ At the core of this system is the integration of the GUVA-S12SD UV sensor with t
 
 **Section 4: Demonstration**
 
-![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/01.png?raw=true) 
-![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/02.jpg?raw=true) 
-![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/11.png?raw=true) 
-![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/12.jpg?raw=true) 
-![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/31.png?raw=true) 
-![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/32.jpg?raw=true) 
+![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/01.png?raw=true)![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/02.jpg?raw=true) 
+![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/11.png?raw=true)![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/12.jpg?raw=true) 
+![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/31.png?raw=true)![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/32.jpg?raw=true) 
 
 _ **The above figure displays the reported UV index by Apple and displayed value at that time in the M5Stick C Plus.** _
