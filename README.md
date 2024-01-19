@@ -16,11 +16,11 @@ At the core of this system is the integration of the GUVA-S12SD UV sensor with t
 - **Custom Software** : A key aspect of our design is the Arduino sketch specifically for the M5Stick C Plus. This software utilizes "M5StickCPlus.h" library compatible with the device, which have been enhanced to suit our specific requirements for UV monitoring.
 - **UV Index Calculation** : The software implements a dual-linear relationship model (figure below) to calculate the UV index from the processed sensor data. This approach is chosen due to its accuracy in correlating the sensor's voltage output with corresponding UV index levels.
 
-![graph](https://github.com/VATARN/personal-UV-index-monitor/blob/main/graph.jpg?raw=true)
+![graph](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/graph.jpg?raw=true)
 
 **System Layout and Data Flow:**
 
-![system](https://github.com/VATARN/personal-UV-index-monitor/blob/main/system.png?raw=true)
+![system](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/system.png?raw=true)
 
 1. UV Light Detection:
 
@@ -44,8 +44,8 @@ At the core of this system is the integration of the GUVA-S12SD UV sensor with t
 
 **Section 4: Demonstration**
 
-![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/01.png?raw=true)![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/02.jpg?raw=true) 
-![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/11.png?raw=true)![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/12.jpg?raw=true) 
-![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/31.png?raw=true)![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/32.jpg?raw=true) 
+![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/01.png?raw=true)![Example1.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/02.jpg?raw=true) 
+![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/11.png?raw=true)![Example2.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/12.jpg?raw=true) 
+![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/31.png?raw=true)![Example3.1](https://github.com/VATARN/personal-UV-index-monitor/blob/main/images/32.jpg?raw=true) 
 
 _ **The above figure displays the reported UV index by Apple and displayed value at that time in the M5Stick C Plus.** _
